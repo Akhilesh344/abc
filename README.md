@@ -1,9 +1,10 @@
-This project contains a basic web development setup using HTML, CSS, and JavaScript. It is designed to showcase a simple webpage layout with assets such as images and interactive features. The purpose of this repository is to demonstrate web design concepts and the integration of frontend technologies.
+Sneak Empire
+Welcome to Sneak Empire, your go-to online store for exclusive sneaker collections. This project showcases a modern, responsive e-commerce platform with a sleek, user-friendly interface.
 
-Files:
-HTML: Structure of the webpage.
-CSS: Styling and layout.
-JavaScript: Interactive elements.
-Feel free to explore and contribute!
+Features:
 
-
+Product Listings: Showcasing popular sneaker brands (Air Force, Jordan, Blazer, etc.).
+Interactive Slider: Display featured products with clickable "Buy Now" buttons.
+Payment System: Users can enter personal and card information for smooth checkout.
+Footer: Includes helpful links, social media icons, and subscription options.
+Enjoy browsing the latest trends and start shopping!
