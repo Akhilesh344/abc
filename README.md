@@ -3,7 +3,7 @@ This project contains a basic web development setup using HTML, CSS, and JavaScr
 Files:
 HTML: Structure of the webpage.
 CSS: Styling and layout.
-JavaScript: Interactive elements (if applicable).
+JavaScript: Interactive elements.
 Feel free to explore and contribute!
 
 
